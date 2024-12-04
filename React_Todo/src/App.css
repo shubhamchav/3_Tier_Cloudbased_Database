@@ -1,0 +1,32 @@
+.container {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.add-todo {
+  margin-bottom: 20px;
+}
+
+.add-todo input {
+  margin-right: 10px;
+  padding: 5px;
+}
+
+.todo-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.todo-item {
+  margin-bottom: 10px;
+}
+
+.todo-item input {
+  margin-right: 10px;
+}
+
+.todo-item button {
+  margin-left: 10px;
+}
